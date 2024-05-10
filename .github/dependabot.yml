@@ -9,3 +9,5 @@ updates:
     directory: "/libs/sdk-core" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "14:54"
+      timezone: "CET"
