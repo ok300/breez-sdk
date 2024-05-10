@@ -6,8 +6,8 @@
 version: 2
 updates:
   - package-ecosystem: "cargo" # See documentation for possible values
-    directory: "/libs/sdk-core" # Location of package manifests
+    directory: "/libs/sdk-core/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "14:54"
+      time: "14:58"
       timezone: "CET"
